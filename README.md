@@ -1,3 +1,3 @@
-# Java_1
+# Java
 wrzucam tutaj zadanka z javy z 
 https://www.codewars.com/users/mzkaoq.
